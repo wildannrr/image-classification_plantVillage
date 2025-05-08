@@ -9,7 +9,7 @@ Dataset yang digunakan adalah **PlantVillage**, sebuah dataset yang berisi lebih
 - Sumber: [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - Kategori tanaman: Tomat, Kentang, Jagung, Anggur, dll.
 - Jenis penyakit: Bercak daun, hawar, karat, dan lain-lain.
-- Kelas yg digunakan : Tomat
+- Kelas yg digunakan : 5 kelas tomat , ( Tomato__Tomato_YellowLeaf__Curl_Virus', 'Tomato_Bacterial_spot','Tomato_healthy','Tomato_Spider_mites_Two_spotted_spider_mite','Tomato_Septoria_leaf_spot )
   
 ## 🧠 Tujuan Proyek
 
