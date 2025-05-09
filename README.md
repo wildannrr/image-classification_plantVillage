@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk mengklasifikasikan penyakit tanaman menggunakan gamba
 Dataset yang digunakan adalah **PlantVillage**, sebuah dataset yang berisi lebih dari 50.000 gambar daun dari berbagai jenis tanaman dan penyakit.
 
 - Sumber: [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
-- Kategori tanaman: Tomat, Kentang, Jagung, Anggur, dll.
+- Kategori tanaman: Tomat, Kentang, Paprika.
 - Jenis penyakit: Bercak daun, hawar, karat, dan lain-lain.
 - Kelas yg digunakan : 5 kelas tomat , ( Tomato__Tomato_YellowLeaf__Curl_Virus', 'Tomato_Bacterial_spot','Tomato_healthy','Tomato_Spider_mites_Two_spotted_spider_mite','Tomato_Septoria_leaf_spot )
   
