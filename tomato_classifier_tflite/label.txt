@@ -1,5 +1,0 @@
-Tomato__Tomato_YellowLeaf__Curl_Virus
-Tomato_Bacterial_spot
-Tomato_healthy
-Tomato_Spider_mites_Two_spotted_spider_mite
-Tomato_Septoria_leaf_spot'
