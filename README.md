@@ -27,5 +27,5 @@ Dataset yang digunakan adalah **PlantVillage**, sebuah dataset yang berisi lebih
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/wildannrr/plantvillage-classification.git
-   cd plantvillage-classification
+   git clone https://github.com/wildannrr/image-classification_plantVillage.git
+   cd image-classification_plantVillage
